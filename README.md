@@ -8,4 +8,4 @@ Just an overview of key processes taken for two separate types of data. The REPI
 Data stored in BED file format, processed for input into neural network. CNN written for sbp data processing can be found under 'Models'.
 
 Models:
-Contains final version of neural networks for methyl m6a mutation site prediction. Process is ongoing.
+Contains most recent workable version of neural networks for methyl m6a mutation site prediction. Process is ongoing.
