@@ -1,5 +1,5 @@
 # Project-Portfolio
-Here's some stuff I'm working on right now!
+Here's some of the stuff I'm working on right now!
 
 
 # Lab work:
